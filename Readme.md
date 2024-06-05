@@ -2,8 +2,11 @@
 
 ## Watch a Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_FkjPTAHXG4?si=3vK_o_oynBYQtb-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Here is a screenshot of the application:
 
+![Application Screenshot](/screenshot.png)
+
+([Click Here](https://youtu.be/_FkjPTAHXG4?si=KjcYx6i9Ffkb_lxe))
 ## Description
 
 The German Waste Segregator App helps users correctly classify waste into the appropriate bin colors based on German waste management standards. The application is powered by a TensorFlow model fine-tuned on the InceptionV3 architecture to accurately classify images of waste. FastAPI is used to serve the model for a ReactJS web app.
